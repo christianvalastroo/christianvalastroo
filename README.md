@@ -43,19 +43,7 @@ const christian = {
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render"/>
-
-</div>
-
 ---
-
-## 🌍 Current Project
-
-# ✈️ EasyTrip
-
-EasyTrip is a Full Stack Travel Planner designed to help users organize and manage their trips in a simple and modern way.
 
 ### Features
 
