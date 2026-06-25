@@ -41,15 +41,3 @@ Open To Junior Developer opportunities · Collaborations · Portfolio projects
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
-
-## 🚀 Main Projects
-
-### ✈️ EasyTrip
-Full-stack travel management platform built with React, Node.js, Express and MongoDB.
-
-### 📝 Strive Blog API
-REST API for managing authors and blog posts with CRUD operations, pagination and file upload.
-
-### ✅ Task Manager
-Task management app with dynamic UI and local storage.
-guarda se e tutto apposto
