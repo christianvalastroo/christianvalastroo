@@ -1,35 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=220&section=header&text=Christian%20Valastro&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Christian%20Valastro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20progress&descSize=18&descAlignY=58" />
 
 <div align="center">
 
-# Christian Valastro
+# Hi, I'm Christian 👋
 
-### Full Stack Developer in Training
-
-Building modern web applications and improving my skills every day.
-
-<p>
-  <img src="https://img.shields.io/badge/Location-Italy-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Junior%20Opportunities-22C55E?style=for-the-badge" />
-</p>
+### Full Stack Developer in progress  
+I build modern web applications with clean interfaces, solid backend logic and a strong focus on user experience.
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-```javascript
+I’m currently studying web development and building full stack projects with **React**, **Node.js**, **Express** and **MongoDB**.
+
+I enjoy creating applications that are not only functional, but also clean, responsive and easy to use.
+
+```js
 const christian = {
-  location: "Italy",
-  role: "Full Stack Developer in Training",
-  learning: ["React", "Node.js", "Express", "MongoDB"],
-  focus: [
-    "REST APIs",
-    "Responsive Design",
-    "Clean Code"
-  ],
-  currentProject: "EasyTrip",
-  goal: "Become a Professional Developer"
-}
+  role: "Full Stack Developer in progress",
+  focus: ["Frontend", "Backend", "UI Design", "Web Apps"],
+  currentlyBuilding: "EasyTrip",
+  learning: ["React", "Node.js", "Express", "MongoDB", "Authentication"],
+  goal: "Create useful and modern digital experiences"
+};
