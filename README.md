@@ -1,82 +1,104 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Christian%20Valastro&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Training&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1120,100:2563EB&text=Christian%20Valastro&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<div align="center">
+# Hi there 👋
 
-# 👋 Hi, I'm Christian Valastro
+I'm Christian, a Web Development student passionate about building modern web applications and continuously improving my skills.
 
-### Full Stack Developer in Training
-
-💻 Passionate about Web Development  
-🚀 Building modern Full Stack applications  
-📚 Currently learning React, Node.js, Express and MongoDB  
-📍 Italy
-
-</div>
+I enjoy turning ideas into real projects and learning new technologies through hands-on experience. My goal is to grow as a Full Stack Developer by creating useful, responsive, and scalable applications.
 
 ---
 
-## 🚀 About Me
+## 🚀 Currently
 
-- 🔭 Currently working on personal Full Stack projects
-- 🌱 Learning React, Node.js, Express and MongoDB
-- 🎯 Goal: Become a professional Full Stack Developer
-- 💡 Interested in REST APIs, Responsive Design and Modern UI
-- 🤝 Open to collaborations and junior opportunities
+- 📚 Studying Web Development
+- ⚛️ Learning React and modern JavaScript
+- 🌐 Building REST APIs with Node.js and Express
+- 🍃 Exploring MongoDB and Mongoose
+- ✈️ Working on **EasyTrip**, my main Full Stack project
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Bootstrap
+- Tailwind CSS
 
 ### Backend
 
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Bruno
+- Cloudinary
+
+---
+
+## 📌 Main Project
+
+### ✈️ EasyTrip
+
+EasyTrip is a Full Stack travel planning platform designed to help users organize and manage their trips.
+
+#### Features
+
+- User Authentication
+- Personal Dashboard
+- Trip Management
+- CRUD Operations
+- REST API Integration
+- MongoDB Database
+- Responsive Design
+
+---
+
+## 🎯 Goals
+
+- Improve my Full Stack development skills
+- Build real-world projects
+- Expand my GitHub portfolio
+- Collaborate with other developers
+- Start my career as a Junior Developer
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christianvalastroo&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
-### Tools & Platforms
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianvalastroo&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Connect With Me
 
-<div align="center">
+📧 Email: christianvalastro@icloud.com
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianvalastroo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianvalastroo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+🐙 GitHub: github.com/christianvalastroo
 
 ---
 
-## 🔥 GitHub Streak
+### A little about me
 
-<div align="center">
+I believe the best way to learn is by building.
 
-<img src="https://streak-stats.demolab.com?user=christianvalastroo&theme=tokyonight&hide_border=true"/>
+Every project teaches me something new, helps me improve my problem-solving skills, and brings me one step closer to becoming the developer I want to be.
 
-</div>
-
----
-
-## 💻 Current Learning Journey
-
-```txt
-HTML5        ████████████████████ 90%
-CSS3         ██████████████████░░ 85%
-JavaScript   ████████████████░░░░ 80%
-React        ██████████████░░░░░░ 70%
-Node.js      ███████████░░░░░░░░░ 60%
-Express      ██████████░░░░░░░░░░ 55%
-MongoDB      █████████░░░░░░░░░░░ 50%
-Git/GitHub   ████████████████░░░░ 80%
+> "Progress is made one project at a time."
