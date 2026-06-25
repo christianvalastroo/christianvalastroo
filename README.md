@@ -1,104 +1,68 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1120,100:2563EB&text=Christian%20Valastro&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-
-# Hi there 👋
-
-I'm Christian, a Web Development student passionate about building modern web applications and continuously improving my skills.
-
-I enjoy turning ideas into real projects and learning new technologies through hands-on experience. My goal is to grow as a Full Stack Developer by creating useful, responsive, and scalable applications.
-
+<<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1120,100:2563EB&text=Christian%20Valastro&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+# Ciao 👋
+Sono Christian, uno studente di Web Development appassionato di creare applicazioni web moderne e migliorare continuamente le mie competenze.
+Mi piace trasformare le idee in progetti concreti e imparare nuove tecnologie attraverso l’esperienza pratica. Il mio obiettivo è crescere come Full Stack Developer creando applicazioni utili, responsive e scalabili.
 ---
-
-## 🚀 Currently
-
-- 📚 Studying Web Development
-- ⚛️ Learning React and modern JavaScript
-- 🌐 Building REST APIs with Node.js and Express
-- 🍃 Exploring MongoDB and Mongoose
-- ✈️ Working on **EasyTrip**, my main Full Stack project
-
+## 🚀 Attualmente
+- 📚 Studio Web Development
+- ⚛️ Sto imparando React e JavaScript moderno
+- 🌐 Sviluppo REST API con Node.js ed Express
+- 🍃 Esploro MongoDB e Mongoose
+- ✈️ Sto lavorando su **EasyTrip**, il mio progetto Full Stack principale
 ---
-
 ## 💻 Tech Stack
-
 ### Frontend
-
 - HTML5
 - CSS3
 - JavaScript
 - React
 - Bootstrap
 - Tailwind CSS
-
 ### Backend
-
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
 - JWT Authentication
-
 ### Tools
-
 - Git
 - GitHub
 - VS Code
 - Bruno
 - Cloudinary
-
 ---
-
-## 📌 Main Project
-
+## 📌 Progetto Principale
 ### ✈️ EasyTrip
-
-EasyTrip is a Full Stack travel planning platform designed to help users organize and manage their trips.
-
-#### Features
-
-- User Authentication
-- Personal Dashboard
-- Trip Management
-- CRUD Operations
-- REST API Integration
-- MongoDB Database
-- Responsive Design
-
+EasyTrip è una piattaforma Full Stack per la pianificazione dei viaggi, progettata per aiutare gli utenti a organizzare e gestire i propri viaggi.
+#### Funzionalità
+- Autenticazione utenti
+- Dashboard personale
+- Gestione dei viaggi
+- Operazioni CRUD
+- Integrazione REST API
+- Database MongoDB
+- Design responsive
 ---
-
-## 🎯 Goals
-
-- Improve my Full Stack development skills
-- Build real-world projects
-- Expand my GitHub portfolio
-- Collaborate with other developers
-- Start my career as a Junior Developer
-
+## 🎯 Obiettivi
+- Migliorare le mie competenze Full Stack
+- Creare progetti reali
+- Ampliare il mio portfolio GitHub
+- Collaborare con altri sviluppatori
+- Iniziare la mia carriera come Junior Developer
 ---
-
-## 📊 GitHub Stats
-
+## 📊 Statistiche GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=christianvalastroo&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianvalastroo&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
 ---
-
-## 📫 Connect With Me
-
+## 📫 Contattami
 📧 Email: christianvalastro@icloud.com
-
 🐙 GitHub: github.com/christianvalastroo
-
 ---
-
-### A little about me
-
-I believe the best way to learn is by building.
-
-Every project teaches me something new, helps me improve my problem-solving skills, and brings me one step closer to becoming the developer I want to be.
-
-> "Progress is made one project at a time."
+### Qualcosa su di me
+Credo che il modo migliore per imparare sia costruire.
+Ogni progetto mi insegna qualcosa di nuovo, migliora le mie capacità di problem solving e mi avvicina sempre di più al developer che voglio diventare.
+> "Il progresso si costruisce un progetto alla volta."
