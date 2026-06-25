@@ -69,28 +69,6 @@ EasyTrip is a Full Stack Travel Planner designed to help users organize and mana
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristianValastro&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianValastro&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ChristianValastro&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 - Master React Development
