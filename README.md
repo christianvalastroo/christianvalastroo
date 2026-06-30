@@ -93,6 +93,18 @@ const christian = {
 
 ---
 
+# 📫 Connect With Me
+<div align="center">
+<a href="https://github.com/christianvalastroo">
+<img src="https://img.shields.io/badge/GitHub-FF4FD8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+📱 **Phone:** +370 602 66624
+</div>
+
+
+---
+
 <div align="center">
 
 ### 🚀 Building my future one project at a time
